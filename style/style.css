@@ -1,0 +1,111 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.logo>img {
+    position: relative;
+    left: 80px;
+    top: 100px;
+    width: 24vw;
+}
+
+.logo{
+    position: relative;
+    bottom: 60px;
+}
+
+.body1 {
+    height: 320px;
+    background-color: rgb(17, 176, 240);
+}
+
+.titulo {
+    position: relative;
+    left: 50vw;
+    bottom: 170px;
+}
+
+.container>h1 {
+    position: relative;
+    top: 30px;
+    text-align: center;
+}
+
+#para {
+    position: relative;
+    top: 90px;
+    left: 12vw;
+    width: 30vw;
+}
+
+.carousel {
+    position: relative;
+    left: 34vw;
+    width: 20vw;
+    bottom: 60px;
+}
+
+.textos>h1 {
+    text-align: center;
+}
+
+.caro {
+    position: relative;
+    left: 25%;
+    width: 50vw;
+}
+
+.container {
+    margin-top: 170px;
+}
+
+.contant {
+    padding-top: 100px;
+    background-color: aliceblue;
+    
+}
+
+.textos {
+    padding-bottom: 50px;
+}
+
+.valor1 {
+    text-align: center;
+    font-size: 20px;
+}
+
+.btn1 {
+    position: relative;
+    left: 25%;
+    height: 30px;
+    width: 100px;
+
+    border-radius: 10px;
+    border: 0;
+    background-color: #ddd;
+}
+ #logocar {
+    font-size: 28px;
+ }
+
+ footer{
+    background-color: black;
+    color: white;
+    height: 10vh;
+ }
+
+ footer>h5 {
+    position: relative;
+    top: 29px;
+    font-size: 16px;
+}
+
+.paragra {
+    position: relative;
+    left: 40%;
+}
